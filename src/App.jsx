@@ -23,23 +23,23 @@ const App = () => {
 
   return (
     <div className="App">
-      <div>
+      <div className="App__row">
         <Pin number={7} onPinStatusUpdate={handlePinStatusUpdate} />
         <Pin number={9} onPinStatusUpdate={handlePinStatusUpdate} />
         <Pin number={8} onPinStatusUpdate={handlePinStatusUpdate} />
       </div>
-      <div>
+      <div className="App__row">
         <Pin number={5} onPinStatusUpdate={handlePinStatusUpdate} />
         <Pin number={11} onPinStatusUpdate={handlePinStatusUpdate} />
         <Pin number={12} onPinStatusUpdate={handlePinStatusUpdate} />
         <Pin number={6} onPinStatusUpdate={handlePinStatusUpdate} />
       </div>
-      <div>
+      <div className="App__row">
         <Pin number={3} onPinStatusUpdate={handlePinStatusUpdate} />
         <Pin number={10} onPinStatusUpdate={handlePinStatusUpdate} />
         <Pin number={4} onPinStatusUpdate={handlePinStatusUpdate} />
       </div>
-      <div>
+      <div className="App__row">
         <Pin number={1} onPinStatusUpdate={handlePinStatusUpdate} />
         <Pin number={2} onPinStatusUpdate={handlePinStatusUpdate} />
       </div>
