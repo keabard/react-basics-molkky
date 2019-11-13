@@ -1,6 +1,6 @@
 # Apprendre les bases de React grâce au Molkky
 
-Si besoin, la présentation [peut être téléchargée ici](./React _ Back to Basics.pdf)
+Vous pouvez retrouver la présentation sous format PDF dans le dépot, juste au dessus (React _ Back to Basics.pdf)
 
 ## 1. Initialiser le projet
 
