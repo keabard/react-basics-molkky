@@ -1,5 +1,7 @@
 # Apprendre les bases de React grâce au Molkky
 
+Si besoin, la présentation [peut être téléchargée ici](React _ Back to Basics.pdf)
+
 ## 1. Initialiser le projet
 
 React propose un outil très complet et très facile à prendre en main pour démarrer un projet from scratch : [create-react-app](https://create-react-app.dev). Nous allons l'executer pour commencer notre exercice :
