@@ -81,6 +81,16 @@ export default App;
   padding: 50px;
 }
 ```
+- Rendez-vous dans `index.js` et remplacez :
+
+```js
+import App from './App'
+```
+par
+```js
+import App from './App.jsx'
+```
+
 
 - Créez un dossier `components` dans `src/`. C'est ici que nous créérons les différents composants de l'application.
 
