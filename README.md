@@ -127,7 +127,7 @@ Le CSS n'est pas le but de cet exercice, et ne doit pas être un frein. Si vous 
 
 ## 5. Positionnement des Pins
 
-Maintenant que le composant `Pin` est créé, nous allons l'utiliser pour afficher les quilles dans leur position du début de partie. Pour vous aider à les disposer, nous allons créer quatres `<div>` dans le composant `App` qui représenteront les quatres lignes du jeu de Molkky dans sa position initiale.
+Maintenant que le composant `Pin` est créé, nous allons l'utiliser pour afficher **toutes les quilles dans leur position de début de partie**. Pour vous aider à les disposer, nous allons créer quatres `<div>` dans le composant `App` qui représenteront les quatres lignes du jeu de Molkky dans sa position initiale.
 
 La fonction de rendu du composant `App` doit renvoyer ceci :
 
